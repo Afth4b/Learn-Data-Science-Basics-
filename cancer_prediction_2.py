@@ -1,4 +1,4 @@
-# implement gaussiannb using the public dataset load_breast_cancer from sklearn.datasets
+Then you are implementing A in an algorithm, so you have to specify the number of neighbors. So for that, you# implement gaussiannb using the public dataset load_breast_cancer from sklearn.datasets
 import numpy as np
 
 from sklearn.datasets import load_breast_cancer
